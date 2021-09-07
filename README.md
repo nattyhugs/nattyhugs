@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nattyhugs
+- 👋 Hi, I’m @nattyhugs AKA Nathan or Nate
 - 👀 I’m interested in Go, Kubernetes and systems engineering
 - 🌱 I’m currently learning about behavioral pyschology, game theory and unconcious decision-making
 - 💞️ I’m looking to collaborate on novel applications of sofware that improve the way we do things
