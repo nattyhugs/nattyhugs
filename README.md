@@ -7,8 +7,8 @@ I build scalable distributed systems and intelligent agentic workflows. Based in
 ---
 
 ### 🤖 Agentic Workflows & AI
-My recent focus is on the intersection of distributed systems and autonomous agents:
-- **[OpenClaw](https://github.com/openclaw/openclaw):** Active contributor and hobbyist developer of personal agentic frameworks. I'm currently building "Lil Sebastian," a highly personalized agent that manages my digital life, investment strategy, and family coordination.
+My focus is on the intersection of distributed systems and autonomous agents:
+- **Autonomous Frameworks:** Developing highly personalized agentic systems to manage complex digital workflows, investment strategies, and coordination tasks.
 - **Professional Focus:** Integrating agentic patterns into enterprise-grade backend systems to move beyond simple automation into true autonomous reasoning.
 
 ### 🏗️ Scalable Systems
