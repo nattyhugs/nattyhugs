@@ -22,4 +22,3 @@ My focus is on the intersection of distributed systems and autonomous agents:
 - 📧 [Email](mailto:nathanieljhughes7@gmail.com)
 
 ---
-*"Energy = Intelligence"*
